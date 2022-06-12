@@ -1,0 +1,23 @@
+body {
+    background: rgb(250,250,250);
+}
+
+div{
+    display: block;
+    text-align: -webkit-center;
+}
+
+table{
+    width: 90%;
+}
+
+
+td{
+    text-align: -webkit-center;
+}
+
+input[type="submit" i] {
+    padding: 1px 6px;
+    margin: 0 2px;
+ 
+}
